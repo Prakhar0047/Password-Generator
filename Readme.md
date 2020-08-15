@@ -4,7 +4,7 @@
 ---
 
 <h1 id="password-generator">Password Generator</h1>
-<p>This is a hangman game or some people refer it as word guessing game.</p>
+<p>This is a password generator program. It will ask you your desired combination and will give you an Strong password.</p>
 <h1 id="prerequisties">Prerequisties</h1>
 <p>Software you would need.</p>
 <ol>
